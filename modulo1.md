@@ -3,9 +3,13 @@ Las empresas de desarrollo de software buscan la manera de entregar sus producto
 
 ## VENTAJAS
 -Reduce el tiempo necesario para completar una tarea.
+
 -Procesos mejorados y mejor definidos que optimizan la ejecución y con ello el valor del servicio. 
+
 -Ofrece mayor consistencia en el desarrollo.
+
 -Permite ser proactivos, anticipando y evitando interrupciones.
+
 -La automatización de servicios reduce los costes operativos. 
 
 ## MOTIVOS PRINCIPALES
