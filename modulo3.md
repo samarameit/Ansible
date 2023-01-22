@@ -28,6 +28,4 @@ Ahora en la maquina servidor utilizamos el comando ssh-keygen para crear la clav
 
 ![ssh](https://github.com/samarameit/Ansible/blob/main/ANSIBLE%20INSTALACION/6.PNG?raw=true)
 
-Ya tenemos todo listo para el siguiente paso. 
-
-◀️ [VOLVER](https://github.com/samarameit/Ansible)
+Ya tenemos todo listo para el siguiente paso -> [Configurar Playbook](https://github.com/samarameit/Ansible/blob/main/modulo4.md)
