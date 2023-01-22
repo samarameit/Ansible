@@ -1,6 +1,5 @@
 ![ansible](https://github.com/samarameit/Ansible/blob/main/ANSIBLE%20PLAYBOOK/ansible-logo600.png?raw=true)
 
-# Ansible
 ## Indice 
 
 :one: [¿Por qué automatizar los despliegues de servicios?](https://github.com/samarameit/Ansible/blob/main/modulo1.md)
