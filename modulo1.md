@@ -1,6 +1,8 @@
 # ¿Por qué automatizar los despliegues de servicios?
 Las empresas de desarrollo de software buscan la manera de entregar sus productos o mejoras de los mismos de una forma ágil y fiable a sus clientes. Para lograr este objetivo necesitan automatizar este proceso de entrega o despliegue, es decir, incluir los mecanismos y herramientas necesarias para realizar el despliegue sin la intervención humana. 
 
+![imagen](https://github.com/samarameit/Ansible/blob/main/ANSIBLE%20PLAYBOOK/1.png?raw=true)
+
 ## VENTAJAS
 -Reduce el tiempo necesario para completar una tarea.
 
